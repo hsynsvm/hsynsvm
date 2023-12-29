@@ -1,9 +1,3 @@
-- 🎧♪ლ(╹◡╹ლ)♫ ♪ ♫ღ(¯`◕‿◕´¯)ღ♪🎧
-- 👋 Hi, I’m @hsynsvm
-- 👀 I’m interested in everything ;)
-- 🌱 I’m currently learning software.
-- 💞️ I’m looking to collaborate on everyone ;)
-- 📫 How to reach me I'm here.
-- ( -_･) ︻デ═一 ▸ 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=hsynsvm&show_icons=true&theme=radical)
 
 
