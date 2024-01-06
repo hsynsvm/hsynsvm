@@ -76,7 +76,11 @@
 
 ###
 
-![snake gif](https://github.com/hsynsvm/hsynsvm/blob/output/github-contribution-grid-snake.gif)
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/hsynsvm/hsynsvm/output/snake.svg" alt="Snake animation" />
+
+###
 
    
     
