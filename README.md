@@ -74,13 +74,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="41" height="30" alt="patreon logo"  />
 </div>
 
-###
 
 
 
-<img src="https://raw.githubusercontent.com/hsynsvm/hsynsvm/output/snake.svg" alt="Snake animation" />
 
-###
+
+
+
 
    
     
