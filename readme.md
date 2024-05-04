@@ -7,7 +7,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsynsvm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![Github stats 3](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=monokai&margin-w=15&margin-h=20)
+![Github stats 3](https://github-profile-trophy.vercel.app/?username=hsynsvm-ma&theme=monokai&margin-w=15&margin-h=20)
 
 ###
 
