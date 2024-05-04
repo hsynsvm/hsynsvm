@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="41" height="30" alt="patreon logo"  />
 </div>
 
-https://pagespeed-insights.herokuapp.com?url=https://hsynsvm.github.io&theme=dark
+
 
 
 
