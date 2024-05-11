@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="41" height="30" alt="patreon logo"  />
 </div>
 
-<p><img height="32" width="32" src="https://github-readme-streak-stats.herokuapp.com/?user=hsynsvm&" alt="hsynsvm" /></p>
+<p><img align="center" height="32" width="32" src="https://github-readme-streak-stats.herokuapp.com/?user=hsynsvm&" alt="hsynsvm" /></p>
 
 
 
