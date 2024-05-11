@@ -61,7 +61,6 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center">
   ![](https://github-readme-stats.vercel.app/api?username=hsynsvm&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=hsynsvm&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?    
@@ -69,19 +68,13 @@
 
 
 ## 🏆 GitHub Trophies
-<div align="center">
   ![](https://github-profile-trophy.vercel.app/?username=hsynsvm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
 ### ✍️ Random Dev Quote
-<div align="center">
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 ### 🔝 Top Contributed Repo
-<div align="center">
   ![](https://github-contributor-stats.vercel.app/api?username=hsynsvm&limit=5&theme=radical&combine_all_yearly_contributions=true)
-</div>
 
 ### Wiews
 <div align="center">
@@ -89,9 +82,8 @@
 </div>
 
 ### 😂 Random Dev Meme
-<div align="center">
   <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-</div>
+
 
 
 
