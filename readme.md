@@ -66,12 +66,12 @@
   ![](https://github-readme-streak-stats.herokuapp.com/?user=hsynsvm&theme=radical&hide_border=false)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?    
   username=hsynsvm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
   ![](https://github-profile-trophy.vercel.app/?username=hsynsvm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-</div>
+
 
 ### ✍️ Random Dev Quote
 <div align="center">
