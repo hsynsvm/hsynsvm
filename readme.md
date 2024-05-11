@@ -74,7 +74,7 @@
 ### 🔝 Top Contributed Repo
   ![](https://github-contributor-stats.vercel.app/api?username=hsynsvm&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-### Wiews
+### ₊˚ʚ ᗢ₊˚✧ ﾟ. Wiews
 <div align="center">
   <img src="https://profile-counter.glitch.me/hsynsvm/count.svg?"  />
 </div>
