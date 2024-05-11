@@ -2,21 +2,7 @@
 
 <h2 align="middle">Hi 👋! My name is Hüseyin.</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hsynsvm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hsynsvm&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hsynsvm&theme=onedark)](https://github.com/hsynsvm/github-profile-trophy)
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/hsynsvm/count.svg?"  />
-</div>
-
-###
-
+# 💻 Tech Stack:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -73,7 +59,25 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="41" height="30" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/patreon/default.svg" width="41" height="30" alt="patreon logo"  />
 </div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hsynsvm&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hsynsvm&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hsynsvm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/hsynsvm/count.svg?"  />
+</div>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hsynsvm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hsynsvm&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 
 
