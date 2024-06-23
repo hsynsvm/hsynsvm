@@ -80,6 +80,19 @@
   <img src="https://profile-counter.glitch.me/hsynsvm/count.svg?"  />
 </div>
 
+### ₊˚ʚ ᗢ₊˚✧ ﾟ. GIFs
+![cartoon-629_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/da2835fc-abec-4938-9468-77dfcabc75d5)
+![earth-night-1918_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/5c476bf0-da7c-427a-b1fa-4cd13795d540)
+![virus-631_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/bba25792-75a6-431b-b250-da2659ab27f7)
+
+
+![eye-12452_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/eaf90393-87f5-40cf-94ed-62f8e36403fe)
+![eagle-10679_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/0364888a-7b6f-4e89-8e7c-9587a56c35c4)
+![swan-11456_256](https://github.com/hsynsvm/hsynsvm/assets/148003585/78033dec-0e74-4ce3-af52-1277dd0f7c36)
+
+
+
+
 
 
 
