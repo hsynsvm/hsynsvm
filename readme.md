@@ -80,8 +80,7 @@
   <img src="https://profile-counter.glitch.me/hsynsvm/count.svg?"  />
 </div>
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
 
 
 
