@@ -1,4 +1,6 @@
 <img src="Hüseyin SEVİM.png" width="auto"> 
+<br>
+<div align="center"><img src="fullstack.gif"></div>
 
 <h2 align="middle">Hi 👋! My name is Hüseyin.</h2>
 
